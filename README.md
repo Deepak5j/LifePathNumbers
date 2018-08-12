@@ -2,7 +2,8 @@
  https://deepak5j.github.io/LifePathNumbers/
 
 #
-## Sololearn 100K Xps in HTML celebration code https://code.sololearn.com/W6w093w30g3j/#html
+## Sololearn 100K Xps in HTML celebration code 
+https://code.sololearn.com/W6w093w30g3j/#html
 #
 # ◀💴💵💴💵💴💵💴💵💴💵💴💵💴💵💴💵💴💵💴▶
 
